@@ -1,5 +1,4 @@
 ﻿#Poznajmy instrukcje warunkowe (narazie tylko if)
-import time
 
 a = input("Podaj 1 liczbę do sprawdzenia: ")
 b = input("Podaj 2 liczbę do sprawdzenia: ")
